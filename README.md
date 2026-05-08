@@ -1,15 +1,12 @@
 # Python-Object-Detection
-1. Create venv
+
+# Create virtual environment
 py -3 -m venv .venv
 
-2. Activate venv
-.venv\scripts\activate
+# Activate virtual environment
+.venv\Scripts\activate
 
-3. Install numpy
+# Install packages
 pip install numpy
-
-4. Install imutils
 pip install imutils
-
-5. Install Open CV
 pip install opencv-python
