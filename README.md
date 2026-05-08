@@ -8,5 +8,7 @@ py -3 -m venv .venv
 
 # Install packages
 pip install numpy
+
 pip install imutils
+
 pip install opencv-python
